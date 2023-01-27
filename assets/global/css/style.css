@@ -79,6 +79,19 @@ body p strong {
 body > .pace > .pace-activity {
   display: none !important;
 }
+
+/* ENOLA */
+
+.marcelo_portada, .portada{
+width: 100%;
+}
+.marcelo_si, .si{
+  width: 100%;
+}
+button{
+  background-color: rgb(115, 1, 1) !important;
+}
+/* END ENOLA */
 input,
 select,
 textarea {
@@ -6495,12 +6508,12 @@ body:not(.fixed-topbar) .main-content .page-content {
   margin-top: 20%;
   text-align: center;
 }
-.404-txt {
+/* .404-txt {
   height: 20px;
 }
 .500-txt {
   height: 20px;
-}
+} */
 #content-404 {
   display: none;
 }
@@ -6561,7 +6574,7 @@ body:not(.fixed-topbar) .main-content .page-content {
   margin-bottom: 10px;
 }
 .account .account-wall {
-  margin-top: 200px;
+  margin-top: 50px;
   padding: 20px 20px 10px;
   position: relative;
 }

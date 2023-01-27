@@ -5,8 +5,18 @@
 
 <div class="container" id="login-block">
             <div class="row">
-                <div class="col-sm-6 col-md-4 col-md-offset-4">
+                <div class="col-sm-4 col-md-6 col-md-offset-3">
                     <div class="account-wall">
+                    <div class="portada_ebrad">
+                    <center>
+                        <img class="portada" src="http://localhost/ebrad/images/portada_ebrad.png" alt="">
+                        </center>
+                        </div>
+                        <div class="marcelo_si">
+                        <center>
+                        <img class="si" src="http://localhost/ebrad/images/marcelo_si.jpeg" alt="">
+                        </center>
+                        </div>
                         <form id="loginfrm" class="form-signin" role="form" method="POST" action="">
 
                             <?php
